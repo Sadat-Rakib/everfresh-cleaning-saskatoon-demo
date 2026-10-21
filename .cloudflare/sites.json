@@ -1,6 +1,6 @@
 [
   {
-    "project": "everfresh-cleaning-saskatoon",
+    "project": "everfresh-cleaning-saskatoon-website",
     "source": ".",
     "worker": false,
     "files": [
